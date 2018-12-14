@@ -364,6 +364,6 @@ return EXIT_SUCCESS;
 
 **Hasilnya :**
 
-![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum8/master/latihan467/SS.png)
+![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum8/master/latihan4/SS.png)
 
-**TERIMA KASIH**# praktikum8
+**TERIMA KASIH**
